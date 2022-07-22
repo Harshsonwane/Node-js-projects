@@ -1,0 +1,4 @@
+body parser use kiye 
+postman se api testing 
+middleware use kiye hai 
+bycrypt bhi use kiya hai
